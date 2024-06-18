@@ -1,0 +1,3 @@
+[submodule "submodules/finance-app-frontend"]
+	path = submodules/finance-app-frontend
+	url = https://github.com/Glen-Yegon/finance-app-frontend.git
